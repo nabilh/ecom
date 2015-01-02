@@ -1,0 +1,6 @@
+#org.skyway.core settings
+#Fri Jan 02 11:22:41 PST 2015
+version=12.0.0.qualifier
+default.top.level.package=ecom
+models.folder.name=.springDSL
+initialized=true

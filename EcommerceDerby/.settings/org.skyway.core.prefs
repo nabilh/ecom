@@ -1,0 +1,6 @@
+#org.skyway.core settings
+#Tue Dec 23 18:23:39 PST 2014
+version=12.0.0.qualifier
+default.top.level.package=apps
+models.folder.name=.springDSL
+initialized=true
