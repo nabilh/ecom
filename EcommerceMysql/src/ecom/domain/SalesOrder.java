@@ -5,7 +5,6 @@ import java.io.Serializable;
 import java.lang.StringBuilder;
 
 import java.util.Calendar;
-import java.util.LinkedHashSet;
 import java.util.Set;
 
 import javax.persistence.Id;

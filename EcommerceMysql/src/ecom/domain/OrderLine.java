@@ -4,8 +4,6 @@ import java.io.Serializable;
 
 import java.lang.StringBuilder;
 
-import java.util.Set;
-
 import javax.persistence.Id;
 import javax.persistence.NamedQueries;
 import javax.persistence.NamedQuery;
